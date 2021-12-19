@@ -1,4 +1,4 @@
-# Projects Name
+# Project Name
 
 Movie Dream Watch(Movie Collections website)
 
