@@ -1,0 +1,15 @@
+.textCusColor{
+    color: rgb(174, 53, 255);
+}
+.CustomButton1 {
+    border: none;
+    background-color: rgb(174, 53, 255);
+    color: white;
+    font-weight: 500;
+    padding: 10px 30px;
+    border-radius: 3px 13px;
+    transition: 0.2s;
+}
+.CustomButton1:hover {
+    background-color: rgb(20, 20, 20);
+}

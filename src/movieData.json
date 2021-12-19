@@ -1,0 +1,134 @@
+[
+    {
+        "id": "01",
+        "name": "The Shawshank Redemption",
+        "release": "October 14, 1994",
+        "director": "Frank Darabont",
+        "cast": "Morgan Freeman, Clancy Brown, Tim Robbins, William Sadler, Bob Gunton",
+        "description": "Based on a Stephen King story, the film is told over several years at the titular prison and centers on a friendship between two inmates. The relationship between the two men is one of the most heart-warming friendships ever shown on screen and it helps give the film those beautiful moments which lead up to one of the greatest endings in film history.",
+        "rating": "9.3",
+        "img": "https://static1.srcdn.com/wordpress/wp-content/uploads/2019/06/Shawshank.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5",
+        "available": "HBO Max"
+    },
+    {
+        "id": "02",
+        "name": "The Godfather",
+        "release": "1972",
+        "director": "Francis Ford Coppola",
+        "cast": "Marlon Brando, Al Pacino, James Caan",
+        "description": "This is the story of the Corleone family, an Italian-American mafia family who struggle with maintaining power after their patriarch is nearly assassinated. The film is violent, funny, intense, emotional and so much more. There are countless quotable lines and unforgettable sequences. It's no wonder it is regarded as such an inspiring film to so many of today's best filmmakers.",
+        "rating": "9.2",
+        "img": "https://static2.srcdn.com/wordpress/wp-content/uploads/2017/06/Al-Martino-as-Johnny-Fontane-and-Marlon-Brando-as-Don-Vito-Corleone-in-The-Godfather.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5",
+        "available": "Spectrum On Demand"
+    },
+    {
+        "id": "03",
+        "name": "The Godfather: Part II",
+        "release": "1974",
+        "director": "Frank Darabont",
+        "cast": "Morgan Freeman, Clancy Brown, Tim Robbins, William Sadler, Bob Gunton",
+        "description": "Without Marlon Brando returning for his iconic role, the film tells the story of young Vito Corleone, played by Robert De Niro who makes the role his own. Along with those amazing flashback scenes, the sequel follows Michael's further descent into the world of crime and his complicated relationship with his brother Fredo. A brilliant continuation and a masterpiece in its own right.",
+        "rating": "9.0",
+        "img": "https://static0.srcdn.com/wordpress/wp-content/uploads/Godfather-Robert-De-Niro-Sonny-Corleone-Audition.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5",
+        "available": "Spectrum On Demand & Showtime Roku Premium Channel"
+    },
+    {
+        "id": "04",
+        "name": "The Dark Knight ",
+        "release": "July 18, 2008",
+        "director": "Christopher Nolan",
+        "cast": "Christian Bale, Gary Oldman, Morgan Freeman, Michael Caine, William Fichtner, Cillian Murphy, Anthony Michael Hall, Aaron Eckhart, Chin Han, Nestor Carbonell, David Dastmalchian, Eric Roberts, Ritchie Coster, Heath Ledger, Maggie Gyllenhaal",
+        "description": "The Dark Knight details Batman's desperate attempt to stop Joker from destroying Gotham as he searches for someone to take up the role of the city's protector. The film feels like a crime epic, with some amazing set pieces and unpredictable twists. However, the film is most remembered for the late Heath Leger's mesmerizing performance as the anarchist Joker.",
+        "rating": "9.0",
+        "img": "https://static0.srcdn.com/wordpress/wp-content/uploads/2016/08/Joker-Behind-Bars.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5",
+        "available": "HBO Max"
+    },
+    {
+        "id": "05",
+        "name": "12 Angry Men",
+        "release": "1957",
+        "director": "Sidney Lumet",
+        "cast": "Lee J. Cobb, Martin Balsam, John Fiedler, E.G. Marshall, Jack Klugman, Henry Fonda",
+        "description": "While the setting might seem dull, it only helps to give the movie a sense of intensity. The filmmaking brilliantly makes the room seem more and more confined as the debate rages on. The claustrophobic feel adds to the atmosphere of it all. It's stunning proof that small-scale films can pack a big punch.",
+        "rating": "8.9",
+        "img": "https://static1.srcdn.com/wordpress/wp-content/uploads/2017/01/12-Angry-Men-Cast.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5",
+        "available": "Apple iTunes"
+    },
+    {
+        "id": "06",
+        "name": "Schindler's List ",
+        "release": "December 15, 1993",
+        "director": "Steven Spielberg",
+        "cast": "Liam Neeson, Ben Kingsley, Ralph Fiennes, Embeth Davidtz, Caroline Goodall, Jonathan Sagall",
+        "description": "Schindler's List is a harrowing story of the real-life tale of Oskar Schindler and his attempts to save Jewish citizens during the Nazi rule in Germany. While Schindler may be an inspiring hero, the film is most effective as a horrific depiction of the Holocaust. Shot in haunting black and white, Spielberg created a film that will last in the minds of viewers for years to come.",
+        "rating": "8.9",
+        "img": "https://static3.srcdn.com/wordpress/wp-content/uploads/2017/03/Schindlers-List-the-girl-in-red.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5",
+        "available": "Fubo TV, Showtime and DIRECTV"
+    },
+    {
+        "id": "07",
+        "name": "The Lord Of The Rings: The Return Of The King ",
+        "release": "2003",
+        "director": "Peter Jackson",
+        "cast": "\tNoel Appleby, Ali Astin, Sean Astin, David Aston, John Bach, Sean Bean, Cate Blanchett, ",
+        "description": "The film brings the quest to destroy the One Ring to a big end. While the film gets ridiculed for dragging out its finale, Jackson and his team did a beautiful job bringing it all to a close in this emotional spectacle that features some truly amazing battle sequences.",
+        "rating": "8.9",
+        "img": "https://static1.srcdn.com/wordpress/wp-content/uploads/2019/06/Frodo-and-the-One-Ring-from-The-Lord-of-the-Rings-The-Return-of-the-King.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5",
+        "available": "HBO Max"
+    },
+    {
+        "id": "08",
+        "name": "Pulp Fiction",
+        "release": "October 14, 1994",
+        "director": "Quentin Tarantino",
+        "cast": "Bruce Willis, Samuel L. Jackson, Ving Rhames, Uma Thurman, John Travolta",
+        "description": "The film intercuts between various stories set in the Los Angeles underworld. Tarantino takes familiar crime stories and gives them his own special twist. The film is unpredictable and fast-paced, with endlessly quotable dialogue all backed up by an amazing soundtrack. Often imitated but never duplicated.",
+        "rating": "8.9",
+        "img": "https://static3.srcdn.com/wordpress/wp-content/uploads/2018/09/Uma-Thurman-as-Mia-Wallace-in-Pulp-Fiction.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5",
+        "available": "Pluto TV"
+    },
+    {
+        "id": "09",
+        "name": "The Good, The Bad And The Ugly",
+        "release": "1967",
+        "director": "Sergio Leone",
+        "cast": "Clint Eastwood, Lee Van Cleef, Eli Wallach, Aldo Giuffrè, Luigi Pistilli",
+        "description": "The film follows three deadly men on a quest to retrieve buried treasure in the midst of the Civil War. The movie helped popularize the Mexican Standoff trend which is still used in action movies today, made a star of Clint Eastwood, and gave movie fans one of the most iconic film scores of all time.",
+        "rating": "8.8",
+        "img": "https://static1.srcdn.com/wordpress/wp-content/uploads/2017/03/Clint-Eastwood-in-The-Good-The-Bad-And-The-Ugly.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5",
+        "available": "Peacock Premium, DIRECTV, and TCM"
+    },
+    {
+        "id": "10",
+        "name": "The Lord Of The Rings: The Fellowship Of The Rings",
+        "release": "2001",
+        "director": "Peter Jackson",
+        "cast": "Elijah Wood, Ian Mckellen, Orlando Bloom",
+        "description": "The film wonderfully introduces this beautiful world and its characters. The simple yet thrilling quest is filled with fun, terror, and action. It's not hard to see why fans were immediately drawn to this franchise.",
+        "rating": "8.8",
+        "img": "https://static3.srcdn.com/wordpress/wp-content/uploads/2019/06/The-Fellowship-in-The-Lord-of-the-Rings-The-Followship-of-the-Ring.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5",
+        "available": "HBO Max"
+    },
+    {
+        "id": "11",
+        "name": "Fight Club",
+        "release": "October 15, 1999",
+        "director": "David Fincher",
+        "cast": "Helena Bonham Carter, Edward Norton, Brad Pitt, Jared Leto, Meat Loaf",
+        "description": "Brad Pitt creates an iconic character with Tyler Durden, a mysterious philosopher who leads Edward Norton's mild-mannered protagonist to create an underground fighting community. The dark humor, brutal violence, and warped philosophies make it a thrilling watch and the twist ending makes you want to rewatch the movie again and again.",
+        "rating": "8.8",
+        "img": "https://static1.srcdn.com/wordpress/wp-content/uploads/2021/11/Brad-Pitt-in-Fight-Club.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5",
+        "available": "Prime Video"
+    },
+    {
+        "id": "12",
+        "name": "Forrest Gump",
+        "release": "July 6, 1994",
+        "director": "Robert Zemeckis",
+        "cast": "Sally Field, Tom Hanks, Robin Wright, Mykelti Williamson, Gary Sinise",
+        "description": "Hanks gives a wonderful performance, infusing this character with enough charm and heart to save him from seeming cartoonish. It is a funny, touching, and entertaining film that remains a crowd-pleasing adventure all these years later.",
+        "rating": "8.7",
+        "img": "https://static0.srcdn.com/wordpress/wp-content/uploads/2019/06/Forrest-Gump-talking-to-a-woman-on-the-bench-in-Forrest-Gump.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5",
+        "available": "Starz Roku Premium Channel and Spectrum On Demand"
+    }
+]
