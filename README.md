@@ -1,8 +1,24 @@
-# Getting Started with Create React App
+# Projects Name
+
+Movie Dream Watch(Movie Collections website)
+
+# Live Site Link
+
+live site link: https://dream-watch-538d8.web.app/
+
+## Task Description
+
+•	I have made this project with the Redux toolkit and React JS.
+•	This is a website of some movie collections after logging in user can choose movies that he/she wants to watch. 
+•	Users can watchlist movies when they want to what those also after finishing a movie they can put them on the finished list.
+•	This project has a google log-in authentication if a user logs out during his/her operation then the system will redirect him/her to the login page.
+•	This project is made with React, Redux, Bootstrap, Firebase Authentication, React Router, NPM.
+
+### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
